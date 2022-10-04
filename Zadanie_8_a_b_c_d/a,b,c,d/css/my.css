@@ -1,0 +1,9 @@
+body {
+    width:100%;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
+ol {
+    text-align:left;
+    margin-left:0px;
+}

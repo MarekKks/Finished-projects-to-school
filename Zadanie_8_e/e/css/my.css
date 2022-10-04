@@ -1,0 +1,38 @@
+body {
+    width:100%;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+header {
+    width:100%;
+    padding-left: 75px;
+    padding-top:10px;
+    display: flex;
+    text-align:center;
+}
+header a {
+    background-color: black;
+    color: white;
+}
+header a:hover{
+    color:red;
+}
+a {
+    text-align:center;
+    padding:15px;
+    font-size: 1em;
+    outline: none;
+    text-decoration: none;
+}
+main {
+    padding-top:6%;
+}
+main a  {
+    text-align: center;
+}
+main img {
+    text-align: center;
+    width:25%;
+}
+

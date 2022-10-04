@@ -1,2 +1,3 @@
 # Finished-projects-to-school
-Finished projects for the 2nd school year (Yablko Základy programovania a OOP)
+Dokončené projekty pre 2. ročník (Yablko Základy programovania a OOP)
+
